@@ -23,7 +23,7 @@ def print_header():
         "\n\t%s\n" % ("ATRIA VENDING MACHINE".center(length, " ")),
         "\n\t%s" % ("Creado por: ".center(length, " ")),
         "\n\t%s" % ("[Fabio Lagos]".center(length, " ")),
-        "\n\t%s\n" % ("V 0.00.01".center(length, " ")),
+        "\n\t%s\n" % ("V 0.00.08".center(length, " ")),
         "\n",
         "%s%s" % ("\t", "-" * length)
     )
