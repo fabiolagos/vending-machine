@@ -1,3 +1,17 @@
+#
+# Fabio Nicolai Lagos Padilla
+# 32341166
+#
+# Estructuras de Datos
+# Sección 1168
+#
+# Foro 1
+# Atria Vending Machine
+# 
+# Vending Machine
+# V.0.00.09
+#
+
 import os
 
 from src.machine import Machine
@@ -23,7 +37,7 @@ def print_header():
         "\n\t%s\n" % ("ATRIA VENDING MACHINE".center(length, " ")),
         "\n\t%s" % ("Creado por: ".center(length, " ")),
         "\n\t%s" % ("[Fabio Lagos]".center(length, " ")),
-        "\n\t%s\n" % ("V 0.00.08".center(length, " ")),
+        "\n\t%s\n" % ("V 0.00.09".center(length, " ")),
         "\n",
         "%s%s" % ("\t", "-" * length)
     )
